@@ -1,0 +1,102 @@
+# Javascript
+_the muscles of a website. for server software, see [nodeJS](../backend/server_languages.md)_
+
+### I'm Completely ~~Lost~~ New
+Do:
+* Read [Start Here!](#start-here) at the bottom of this page
+* [codecombat.com](https://codecombat.com) `game`
+* [JS Robot](https://lab.reaal.me/jsrobot/) `game`
+
+Watch:
+* [youtube.com](https://www.youtube.com/watch?v=xwKbtUP87Dk) - JS basics in 10 minutes
+* [youtube.com](https://www.youtube.com/watch?v=upDLs1sn7g4) - what is JS with Mosh 
+
+---
+
+### Apprentice
+Do:
+* [codecademy](https://www.codecademy.com/learn/introduction-to-javascript) - intro to JS
+* [codewars](https://codewars.com) - start at 8kyu (easiest)
+* [warriorJS.com](https://warriorjs.com) `game`
+
+Read:
+* [MDN quickstart](https://developer.mozilla.org/en-US/docs/Learn)
+
+Watch:
+* [youtube.com](https://www.youtube.com/watch?v=hdI2bqOjy3c) - Traversy Crash Course 
+
+---
+
+### Maker
+Do:
+* [javascript.info](https://javascript.info)
+* [30in30](https://javascript30.com) - make 30 projects in 30 days
+* [JS challenger](https://www.jschallenger.com)
+* [codecademy](https://www.codecademy.com/learn/learn-intermediate-javascript) - intermediate JS
+* [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - first bits only
+* [Elevator Saga](https://play.elevatorsaga.com) `game`
+* [codewars](https://codewars.com) from Apprentice Level - 7kyu & 6kyu
+
+Read:
+* [EloquentJS](https://eloquentjavascript.net) - very in-depth
+
+Watch:
+* [youtube.com](https://www.youtube.com/watch?v=vDJpGenyHaA) - JS OOP with Mosh
+* [youtube.com](https://www.youtube.com/watch?v=tiRhFGnCltw) - Make sense of tricky JS
+
+
+---
+
+### Master
+Do:
+* [screeps](https://screeps.com/a) `game`
+* [cyber-dojo](http://www.cyber-dojo.org/) `game`
+* [codingame](https://codingame.com/start) `game`
+* [codewars](https://codewars.com) from Apprentice Level - 5kyu & 4kyu
+* [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - finish from Maker Level
+
+Read:
+* [advanced functions](https://johnresig.com/apps/learn/#1) - click next/previous/run on top right
+
+Watch:
+* [youtube.com](https://www.youtube.com/watch?v=1S8SBDhA7HA&list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd) - Advanced JS concepts
+* [youtube.com](https://www.youtube.com/watch?v=M2bJBuaOeOQ&list=PLillGF-Rfqbb4ZOnsNCIB-DnLuUrQjS_G) - JS cardio sessions
+
+---
+
+## Extra todo
+
+## Extra watch
+
+## Extra read
+
+---
+
+
+
+## Start Here!
+Welcome to javascript! Above are plenty of links to help you get started.
+Everything in this repository is free, and you should not have to pay for anything. 
+
+Go ahead and read through these links:
+_※ - my personal preference_
+
+* online playgrounds: _try code online in the browser_
+  * [codepen.io](https://codepen.io) ※
+  * [JS Fiddle](https://jsfiddle.net/)
+  * [JS Bin](https://jsbin.com/?html,js,output)
+  * [CodeSandbox](https://codesandbox.io/)
+* editors: _do code locally on your machine_
+  * [VS Code](https://code.visualstudio.com/) ※
+  * [Atom](https://atom.io)
+* resources when lost:
+  * do not trust w3schools.com, as I have found their information to be wrong on a few occasions
+  * [stackOverflow](https://stackoverflow.com/questions/tagged/javascript) is a trusted source, but pay attention to answer dates
+  * [MDN](https://developer.mozilla.org/en-US/) - Mozilla Developer Network
+  * [JSinfo](https://javascript.info/)
+  * [massive JS cheatsheet](https://htmlcheatsheet.com/js/)
+  * [linter](https://www.jslint.com) for checking your code for errors
+
+---
+
+_Is there an error or missing something cool? Send an [issue](https://github.com/octoshrimpy/learn/issues/new), or [fork](https://github.com/octoshrimpy/learn/fork) and [pull request](https://github.com/octoshrimpy/learn/compare)! (don't know how? [learn github here!](../github))_
