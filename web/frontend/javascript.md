@@ -97,6 +97,9 @@ _※ - my personal preference_
   * [massive JS cheatsheet](https://htmlcheatsheet.com/js/)
   * [linter](https://www.jslint.com) for checking your code for errors
 
+
+_[back up to top](#javascript)_
+
 ---
 
 _Is there an error or missing something cool? Send an [issue](https://github.com/octoshrimpy/learn/issues/new), or [fork](https://github.com/octoshrimpy/learn/fork) and [pull request](https://github.com/octoshrimpy/learn/compare)! (don't know how? [learn github here!](../github))_
