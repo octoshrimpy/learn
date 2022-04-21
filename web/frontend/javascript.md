@@ -1,7 +1,7 @@
 # Javascript
 _the muscles of a website. for server software, see [nodeJS](../backend/server_languages.md)_
 
-### I'm Completely ~~Lost~~ New
+### I'm Very ~~Lost~~ New
 Do:
 * Read [Start Here!](#start-here) at the bottom of this page
 * [codecombat.com](https://codecombat.com) `game`
