@@ -2,23 +2,22 @@
 _the muscles of a website. for running it within a server environment, see [nodeJS](../backend/server_languages.md)_
 
 ### I'm Very ~~Lost~~ New
-Do:
-* Read [Start Here!](#start-here) at the bottom of this page
-* [codecombat.com](https://codecombat.com) `game`
-* [JS Robot](https://lab.reaal.me/jsrobot/) `game`
+
+Read:
+* [Start Here!](#start-here) at the bottom of this page
 
 Watch:
 * [ilovecoding.com](https://ilovecoding.org/courses/js2) - to lesson 5
 * [youtube.com](https://www.youtube.com/watch?v=xwKbtUP87Dk) - JS basics in 10 minutes
 * [youtube.com](https://www.youtube.com/watch?v=upDLs1sn7g4) - what is JS with Mosh 
 
+Do:
+* [codecombat.com](https://codecombat.com) `game`
+* [JS Robot](https://lab.reaal.me/jsrobot/) `game`
+
 ---
 
 ### Apprentice
-Do:
-* [codecademy](https://www.codecademy.com/learn/introduction-to-javascript) - intro to JS
-* [codewars](https://codewars.com) - start at 8kyu (easiest)
-* [warriorJS.com](https://warriorjs.com) `game`
 
 Read:
 * [MDN quickstart](https://developer.mozilla.org/en-US/docs/Learn)
@@ -27,9 +26,22 @@ Watch:
 * [ilovecoding.com](https://ilovecoding.org/courses/js2) - to lesson 5
 * [youtube.com](https://www.youtube.com/watch?v=hdI2bqOjy3c) - Traversy Crash Course 
 
+Do:
+* [codecademy](https://www.codecademy.com/learn/introduction-to-javascript) - intro to JS
+* [codewars](https://codewars.com) - start at 8kyu (easiest)
+* [warriorJS.com](https://warriorjs.com) `game`
+
 ---
 
 ### Maker
+
+Read:
+* [EloquentJS](https://eloquentjavascript.net) - very in-depth
+
+Watch:
+* [youtube.com](https://www.youtube.com/watch?v=vDJpGenyHaA) - JS OOP with Mosh
+* [youtube.com](https://www.youtube.com/watch?v=tiRhFGnCltw) - Make sense of tricky JS
+
 Do:
 * [javascript.info](https://javascript.info)
 * [30in30](https://javascript30.com) - make 30 projects in 30 days
@@ -39,30 +51,22 @@ Do:
 * [Elevator Saga](https://play.elevatorsaga.com) `game`
 * [codewars](https://codewars.com) from Apprentice Level - 7kyu & 6kyu
 
-Read:
-* [EloquentJS](https://eloquentjavascript.net) - very in-depth
-
-Watch:
-* [youtube.com](https://www.youtube.com/watch?v=vDJpGenyHaA) - JS OOP with Mosh
-* [youtube.com](https://www.youtube.com/watch?v=tiRhFGnCltw) - Make sense of tricky JS
-
-
 ---
 
 ### Master
-Do:
-* [screeps](https://screeps.com/a) `game`
-* [cyber-dojo](http://www.cyber-dojo.org/) `game`
-* [codingame](https://codingame.com/start) `game`
-* [codewars](https://codewars.com) from Apprentice Level - 5kyu & 4kyu
-* [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - finish from Maker Level
-
 Read:
 * [advanced functions](https://johnresig.com/apps/learn/#1) - click next/previous/run on top right
 
 Watch:
 * [youtube.com](https://www.youtube.com/watch?v=1S8SBDhA7HA&list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd) - Advanced JS concepts
 * [youtube.com](https://www.youtube.com/watch?v=M2bJBuaOeOQ&list=PLillGF-Rfqbb4ZOnsNCIB-DnLuUrQjS_G) - JS cardio sessions
+
+Do:
+* [screeps](https://screeps.com/a) `game`
+* [cyber-dojo](http://www.cyber-dojo.org/) `game`
+* [codingame](https://codingame.com/start) `game`
+* [codewars](https://codewars.com) from Apprentice Level - 5kyu & 4kyu
+* [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - finish from Maker Level
 
 ---
 
