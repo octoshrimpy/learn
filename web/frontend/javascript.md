@@ -8,6 +8,7 @@ Do:
 * [JS Robot](https://lab.reaal.me/jsrobot/) `game`
 
 Watch:
+* [ilovecoding.com](https://ilovecoding.org/courses/js2) - to lesson 5
 * [youtube.com](https://www.youtube.com/watch?v=xwKbtUP87Dk) - JS basics in 10 minutes
 * [youtube.com](https://www.youtube.com/watch?v=upDLs1sn7g4) - what is JS with Mosh 
 
@@ -23,6 +24,7 @@ Read:
 * [MDN quickstart](https://developer.mozilla.org/en-US/docs/Learn)
 
 Watch:
+* [ilovecoding.com](https://ilovecoding.org/courses/js2) - to lesson 5
 * [youtube.com](https://www.youtube.com/watch?v=hdI2bqOjy3c) - Traversy Crash Course 
 
 ---
@@ -92,7 +94,7 @@ _※ - my personal preference_
 * resources when lost:
   * do not trust w3schools.com, as I have found their information to be wrong on a few occasions
   * [stackOverflow](https://stackoverflow.com/questions/tagged/javascript) is a trusted source, but pay attention to answer dates
-  * [MDN](https://developer.mozilla.org/en-US/) - Mozilla Developer Network
+  * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - Mozilla Developer Network
   * [JSinfo](https://javascript.info/)
   * [massive JS cheatsheet](https://htmlcheatsheet.com/js/)
   * [linter](https://www.jslint.com) for checking your code for errors
