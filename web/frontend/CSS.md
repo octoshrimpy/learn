@@ -114,7 +114,7 @@ _※ - my personal preference_
   * [stackOverflow](https://stackoverflow.com/questions/tagged/css) is a trusted source, but pay attention to answer dates
   * [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - Mozilla Developer Network
   * [css-irl](https://css-irl.info/tags/)
-  * [massive JS cheatsheet](https://htmlcheatsheet.com/css/)
+  * [massive CSS cheatsheet](https://htmlcheatsheet.com/css/)
   * [CSS-tricks](https://css-tricks.com)
   * [linter](http://csslint.net) for checking your styles for errors
   * [caniuse](https://caniuse.com) - not all browsers support everything
