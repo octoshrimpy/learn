@@ -67,6 +67,7 @@ Do:
 * [codingame](https://codingame.com/start) `game`
 * [codewars](https://codewars.com) from Apprentice Level - 5kyu & 4kyu
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - finish from Maker Level
+* [solve these leetcode problems](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 ---
 
