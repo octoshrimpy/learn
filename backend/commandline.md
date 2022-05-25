@@ -6,3 +6,4 @@
 - [ ] https://www.youtube.com/watch?v=yz7nYlnXLfE
 - [ ] https://learntocodewith.me/learn/command-line/
 - [ ] https://github.com/rwxrob/boost/blob/2022/outline.md
+- [ ] https://linuxjourney.com/lesson/the-shell 
