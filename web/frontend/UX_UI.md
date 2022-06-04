@@ -29,7 +29,6 @@
 - [ ] https://www.siteinspire.com/
 - [ ] https://www.landingfolio.com/
 - [ ] https://www.lapa.ninja/
-- [ ] https://httpster.net/
 - [ ] https://www.calltoidea.com/
 - [ ] https://onepagelove.com/
 - [ ] https://collectui.com/
