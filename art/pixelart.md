@@ -12,3 +12,7 @@
 * [mortmort's pixel art tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)
 * [BJPixel's tutorials](https://www.youtube.com/playlist?list=PLxfQIomHccxvoTON6hXhfZyAUdFXd-z1P)
 * [top-down style analysis and tutorial](https://youtu.be/2JCG4fCmeHk)
+
+## read
+
+* [saint11's gif tutorials](https://saint11.org/blog/pixel-art-tutorials/)
