@@ -1,5 +1,10 @@
 # Lua
 
+## do
+* [codecombat](https://codecombat.com) `game` - sign up as Individual (top right menu), and choose Lua as your language
+* [make a "guess the number" game](https://opensource.com/article/20/12/lua-guess-number-game)
+* [intro to lua class](https://learn.coregames.com/courses/intro-to-lua/)
+
 ## read
 * [official lua docs](https://www.lua.org/pil/1.html)
 * [learn lua in 15 mins](https://learnxinyminutes.com/docs/lua/)
@@ -7,11 +12,11 @@
 * [beginner's guide to lua](https://github.com/pohka/Lua-Beginners-Guide)
 
 ## watch
-
 * [lua in 100 seconds](https://www.youtube.com/watch?v=jUuqBZwwkQw)
 * [lua in 15 mins for programmers](https://www.youtube.com/watch?v=kgiEF1frHQ8)
 * [complete lua tutorial - 57 mins](https://www.youtube.com/watch?v=iMacxZQMPXs)
 
+---
 
 ## extra do
 * [love2D game engine](https://love2d.org)
