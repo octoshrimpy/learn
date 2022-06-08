@@ -1,6 +1,8 @@
-[o] _more to come_
+---
+[ ] add more resources
+---
 
-
+>:warning: **Warning:** under construction
 # HTML
 _HyperText Markdown Language, the bones of a website._
 
@@ -83,4 +85,4 @@ _[back up to top](#html)_
 
 ---
 
-_Is there an error or something cool missing? Send an [issue](https://github.com/octoshrimpy/learn/issues/new), or [fork](https://github.com/octoshrimpy/learn/fork) and [pull request](https://github.com/octoshrimpy/learn/compare)! (don't know how? [learn github here!](../github))_
+_Is there an error or something cool missing? Send an [issue](https://github.com/octoshrimpy/learn/issues/new)!_

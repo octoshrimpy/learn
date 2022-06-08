@@ -1,3 +1,7 @@
+---
+completed
+---
+
 # Javascript
 _the muscles of a website. for running it within a server environment, see [nodeJS](../backend/server_languages.md)_
 
@@ -109,4 +113,4 @@ _[back up to top](#javascript)_
 
 ---
 
-_Is there an error or something cool missing? Send an [issue](https://github.com/octoshrimpy/learn/issues/new), or [fork](https://github.com/octoshrimpy/learn/fork) and [pull request](https://github.com/octoshrimpy/learn/compare)! (don't know how? [learn github here!](../github))_
+_Is there an error or something cool missing? Send an [issue](https://github.com/octoshrimpy/learn/issues/new)!_
