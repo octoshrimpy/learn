@@ -1,4 +1,5 @@
 # Lua
+_A lightweight programming language, often used for modding_
 
 ## do
 * [codecombat](https://codecombat.com) `game` - sign up as Individual (top right menu), and choose Lua as your language
