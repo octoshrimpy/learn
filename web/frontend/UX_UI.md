@@ -10,7 +10,7 @@
 * https://www.youtube.com/watch?v=hnx5UWaP_jo Figma components: the basics to creating robust components
 * https://www.youtube.com/watch?v=ps6p9e6QmgY Prototyping animations with Figma
 * https://www.youtube.com/watch?v=KYFwcIRx16g From idea to layout: How I approach designing a site
-
+https://youtu.be/o3VHJ7g7M08
 
 
 ## design inspiration
