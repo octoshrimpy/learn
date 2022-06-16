@@ -5,13 +5,21 @@
 
 >:warning: **Warning:** under construction
 # UX/UI
-* https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/
+
+Read:
+* [github's Primer guidelines](https://primer.style/design/)
+* 
+Watch:
 * https://www.youtube.com/watch?v=eZJOSK4gXl4  Getting started with Figma: A beginner's guide
 * https://www.youtube.com/watch?v=hnx5UWaP_jo Figma components: the basics to creating robust components
 * https://www.youtube.com/watch?v=ps6p9e6QmgY Prototyping animations with Figma
 * https://www.youtube.com/watch?v=KYFwcIRx16g From idea to layout: How I approach designing a site
-https://youtu.be/o3VHJ7g7M08
+* https://youtu.be/o3VHJ7g7M08
 
+
+Do:
+* https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/
+---
 
 ## design inspiration
 * https://www.awwwards.com/
