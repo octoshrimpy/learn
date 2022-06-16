@@ -1,8 +1,3 @@
----
-[ ] add more resources to learn from
-[ ] convert doc into markdown and host at /learn
----
-
 >:warning: **Warning:** under construction
 # Volunteer
 * [ragtag.com](https://ragtag.org/) - Join the Ragtag team
