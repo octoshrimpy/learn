@@ -23,7 +23,7 @@
 * [data centre 101 playlists (all good)](https://www.youtube.com/c/Custodiandc-DataCentres/playlists)
 * [Eli the computer guy playlists (some good)](https://www.youtube.com/c/Elithecomputerguypage/playlists)
 
-===
+---
 
 ## general compsci + intro to cybersec
 * https://github.com/ossu/computer-science
