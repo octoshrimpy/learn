@@ -13,6 +13,8 @@ Watch:
 * [Mortmort's pixel art tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)
 * [BJPixel's tutorials](https://www.youtube.com/playlist?list=PLxfQIomHccxvoTON6hXhfZyAUdFXd-z1P)
 * [Top-down style analysis and tutorial](https://youtu.be/2JCG4fCmeHk)
+* [Pixel Art 101](https://www.youtube.com/playlist?list=PLmac3HPrav-9UWt-ahViIZxpyQxJ2wPSH)
+* [Pixel Art Critiques](https://www.youtube.com/playlist?list=PLmac3HPrav-9bIEd67mbF7ovn0XnD5_0V)
 
 Do:
 * [Start here](https://lospec.com/articles/pixel-art-where-to-start/)
