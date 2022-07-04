@@ -8,7 +8,10 @@
 
 Read:
 * [github's Primer guidelines](https://primer.style/design/)
-* 
+* [ux checklist](http://uxchecklist.github.io)
+* [UX simplified](https://github.com/SteveBarnett/Checklists) - read the articles within each `.md` file for more info
+
+
 Watch:
 * https://www.youtube.com/watch?v=eZJOSK4gXl4  Getting started with Figma: A beginner's guide
 * https://www.youtube.com/watch?v=hnx5UWaP_jo Figma components: the basics to creating robust components
