@@ -6,21 +6,21 @@
 # learn
 _List of resources to watch, read and learn on any topic_
 
-* art
-  * pixelart
-  * theory and practice
-* backend
-  * languages
-    * lua
-    * python
-    * commandline
-* web
-  * frontend
-    * CSS
-    * javascript
-    * UX/UI
-* git
-* networking with humans
+* [art](art/)
+  * [pixelart](art/pixelart.md)
+  * [theory and practice](art/theory_and_practice.md)
+* [backend](backend/)
+  * [languages](backend/languages)
+    * [lua](backend/languages/lua.md)
+    * [python](backend/languages/python.md)
+    * [commandline](backend/languages/commandline.md)
+* [web](web/)
+  * [frontend](web/frontend)
+    * [CSS](web/frontend/CSS.md)
+    * [javascript](web/frontend/javascript.md)
+    * [UX/UI](web/frontend/UX_UI.md)
+* [git](git.md)
+* [networking with humans](human_interaction.md)
 
 ---
 
