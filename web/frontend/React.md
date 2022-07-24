@@ -15,7 +15,7 @@ Watch:
 
 Do:
 * [Codecademy](https://www.codecademy.com/learn/react-101)
-* [Scrimba Course(Free!)](https://scrimba.com/learn/learnreact)
+* [Scrimba Course](https://scrimba.com/learn/learnreact)
 * [Build a React Website](https://www.youtube.com/watch?v=I2UBjN5ER4s&t=3371s) - helps you get started by dipping your toes in ;)
 * [Build a Calculator](https://www.youtube.com/watch?v=DgRrrOt0Vr8&ab_channel=WebDevSimplified)
 ---
