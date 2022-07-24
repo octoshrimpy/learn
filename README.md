@@ -21,6 +21,7 @@ _List of resources to watch, read and learn on any topic_
     * [CSS](web/frontend/CSS.md)
     * [javascript](web/frontend/javascript.md)
     * [UX/UI](web/frontend/UX_UI.md)
+    * [React](web/frontend/React.md)
 * [git](git.md)
 * [linux](linux.md)
 * [networking with humans](human_interaction.md)
