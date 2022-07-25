@@ -35,6 +35,7 @@
 ## real world knowledge
 * https://www.youtube.com/c/NetworkChuck/playlists
 * https://null-byte.wonderhowto.com/
+* https://github.com/carlospolop/PEASS-ng
 
 
 ## actual playgrounds
