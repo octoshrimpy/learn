@@ -1,6 +1,9 @@
 >:warning: **Warning:** under construction
 
 # git
+
+## watch
+* [git in 100 seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
 * https://learngitbranching.js.org/
 * https://ohmygit.org/
 
