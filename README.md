@@ -14,7 +14,7 @@ _List of resources to watch, read and learn on any topic_
     * [lua](backend/languages/lua.md)
     * [python](backend/languages/python.md)
     * [commandline](backend/languages/commandline.md)
-    * [hardware & cybersec](backend/languages/hardware_cybersec.md)
+    * [hardware & cybersec](backend/hardware_cybersec.md)
 * [web](web/)
   * [frontend](web/frontend)
     * [HTML](web/frontend/HTML.md)
