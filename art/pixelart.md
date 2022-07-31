@@ -8,6 +8,7 @@ _Drawing in lower resolutions purposefully, also known as pixel pushing or sprit
 
 Read:
 * [Saint11's gif tutorials](https://saint11.org/blog/pixel-art-tutorials/)
+* [slynyrd's tutorials](https://www.slynyrd.com/pixelblog-catalogue)
 * [LPC styleguide](https://lpc.opengameart.org/static/LPC-Style-Guide/build/styleguide.html)
 
 Watch:
