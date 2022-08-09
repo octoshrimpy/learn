@@ -1,5 +1,4 @@
 ---
-[] update link to CSS.md
 [] add more resources
 ---
 
