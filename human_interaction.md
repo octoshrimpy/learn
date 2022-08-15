@@ -12,4 +12,9 @@ https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c/
 
 ---
 
+[30 Seconds of Interviews](https://30secondsofinterviews.org/)
+
+---
+
+
 _Is there an error or something cool missing? Send an [issue](https://github.com/octoshrimpy/learn/issues/new)!_
