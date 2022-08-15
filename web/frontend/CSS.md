@@ -3,7 +3,7 @@ completed
 ---
 
 # CSS
-_Cascading Style Sheets. for preprocessors, see [CSS - preprocessors](./css-preprocessors.md)_
+_Cascading Style Sheets. for preprocessors, see [CSS - preprocessors](https://github.com/octoshrimpy/learn/blob/main/web/frontend/css-preprocessors.md)_
 
 ### I'm Very ~~Lost~~ New
 
