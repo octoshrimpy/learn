@@ -13,16 +13,23 @@ Read:
 
 
 Watch:
-* https://www.youtube.com/watch?v=eZJOSK4gXl4  Getting started with Figma: A beginner's guide
-* https://www.youtube.com/watch?v=hnx5UWaP_jo Figma components: the basics to creating robust components
-* https://www.youtube.com/watch?v=ps6p9e6QmgY Prototyping animations with Figma
-* https://www.youtube.com/watch?v=KYFwcIRx16g From idea to layout: How I approach designing a site
-* https://youtu.be/o3VHJ7g7M08
+* [figma - A beginner's guide](https://www.youtube.com/watch?v=eZJOSK4gXl4)  
+* [figma - creating robust components](https://www.youtube.com/watch?v=hnx5UWaP_jo)
+* [figma - Prototyping animations](https://www.youtube.com/watch?v=ps6p9e6QmgY)
+* [from idea to layout: How I approach designing a site](https://www.youtube.com/watch?v=KYFwcIRx16g) 
+* [into to UI](https://youtu.be/o3VHJ7g7M08)
+* [user accessibility](https://youtu.be/cOmehxAU_4s)
 
 
 Do:
 * https://userinyerface.com/
 * https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/
+---
+
+Resources:
+* [webaim resources](https://webaim.org/resources/)
+* [scan sites for accessibility](https://accessibleweb.com/website-accessibility-checker/)
+
 ---
 
 ## design inspiration
