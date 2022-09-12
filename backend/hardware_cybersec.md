@@ -16,6 +16,7 @@
 
 ## intermediate
 
+* [how air pressure works inside a pc case](https://www.youtube.com/watch?v=a12aDCxrcts)
 * [what is a server - LTT as fast as possible](https://www.youtube.com/watch?v=ByI1PHMcPJQ)
 * [server software - wolfgang's tour](https://www.youtube.com/watch?v=f5jNJDaztqk)
 * [wolfgang building a great server (new parts)](https://www.youtube.com/watch?v=qACTvCW_yDc)
