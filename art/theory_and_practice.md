@@ -9,6 +9,7 @@ Watch:
 * [Color theory for noobs](https://www.youtube.com/watch?v=AvgCkHrcj90)
 * [Ctrl-paint's theory playlist](https://www.youtube.com/playlist?list=PLI68ClDpxTYRrtNyfr6TiPUz2-NChHZhx)
 * [Ctrl-paint's playlists](https://www.youtube.com/user/ctrlpainter/playlists)
+* [Light Ponderings' color theory](https://youtube.com/playlist?list=PLM6vM9eVKe8GCYm1Fn1uRfoFQ2TM0N-qc)
 
 ---
 
