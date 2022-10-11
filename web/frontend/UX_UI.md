@@ -10,6 +10,7 @@ Read:
 * [github's Primer guidelines](https://primer.style/design/)
 * [ux checklist](http://uxchecklist.github.io)
 * [UX simplified](https://github.com/SteveBarnett/Checklists) - read the articles within each `.md` file for more info
+* [color and contrast](https://colorandcontrast.com/#/) - explanation of how the eye works, and how we perceive color (thanks [Mal](https://twitter.com/mdeandesign))!
 
 
 Watch:
