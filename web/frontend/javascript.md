@@ -3,7 +3,7 @@ completed
 ---
 
 # Javascript
-_the muscles of a website.
+_the muscles of a website. for running it within a server environment, see [nodeJS](../backend/server_languages.md)_
 
 ### I'm Very ~~Lost~~ New
 
