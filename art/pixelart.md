@@ -14,6 +14,7 @@ Read:
 Watch:
 * [Mortmort's pixel art tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)
 * [BJPixel's tutorials](https://www.youtube.com/playlist?list=PLxfQIomHccxvoTON6hXhfZyAUdFXd-z1P)
+* [HeartBeast's pixelart series](https://www.youtube.com/watch?v=W9bpaSrytBM&list=PL9FzW-m48fn132PTRubDgTX9m4fwhFXSk)
 * [Top-down style analysis and tutorial](https://youtu.be/2JCG4fCmeHk)
 * [Pixel Art 101](https://www.youtube.com/playlist?list=PLmac3HPrav-9UWt-ahViIZxpyQxJ2wPSH)
 * [Pixel Art Critiques](https://www.youtube.com/playlist?list=PLmac3HPrav-9bIEd67mbF7ovn0XnD5_0V)
