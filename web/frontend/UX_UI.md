@@ -20,12 +20,13 @@ Watch:
 * [from idea to layout: How I approach designing a site](https://www.youtube.com/watch?v=KYFwcIRx16g) 
 * [into to UI](https://youtu.be/o3VHJ7g7M08)
 * [user accessibility](https://youtu.be/cOmehxAU_4s)
-* [accessibility funcamentals](https://www.youtube.com/watch?v=z8xUCzToff8)
+* [accessibility fundamentals](https://www.youtube.com/watch?v=z8xUCzToff8)
 
 
 Do:
 * https://userinyerface.com/
 * https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/
+* https://cantunsee.space/
 ---
 
 Resources:
