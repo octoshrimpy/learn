@@ -18,6 +18,7 @@ Watch:
 * [Top-down style analysis and tutorial](https://youtu.be/2JCG4fCmeHk)
 * [Pixel Art 101](https://www.youtube.com/playlist?list=PLmac3HPrav-9UWt-ahViIZxpyQxJ2wPSH)
 * [Pixel Art Critiques](https://www.youtube.com/playlist?list=PLmac3HPrav-9bIEd67mbF7ovn0XnD5_0V)
+* [How to choose good Colour Palettes](https://youtu.be/uUdMb8Bb2II)
 
 Do:
 * [Start here](https://lospec.com/articles/pixel-art-where-to-start/)
