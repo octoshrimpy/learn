@@ -10,6 +10,7 @@ Read:
 * [Saint11's gif tutorials](https://saint11.org/blog/pixel-art-tutorials/)
 * [slynyrd's tutorials](https://www.slynyrd.com/pixelblog-catalogue)
 * [LPC styleguide](https://lpc.opengameart.org/static/LPC-Style-Guide/build/styleguide.html)
+* [Thoughts on very low resolution](https://blog.kano.me/my-thoughts-on-very-low-resolution/amp/)
 
 Watch:
 * [Mortmort's pixel art tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)
