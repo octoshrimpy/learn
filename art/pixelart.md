@@ -12,6 +12,7 @@ Read:
 * [LPC styleguide](https://lpc.opengameart.org/static/LPC-Style-Guide/build/styleguide.html)
 * [Thoughts on very low resolution](https://blog.kano.me/my-thoughts-on-very-low-resolution/amp/)
 * [Color for the Color Challenged](https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56)
+* [how Celeste's tilesets work - article](https://aran.ink/posts/celeste-tilesets)
 * [Lux - Color for pixel artist: it's all relative](https://pixelparmesan.com/color-theory-for-pixel-artists-its-all-relative/)
 
 Watch:
@@ -22,6 +23,7 @@ Watch:
 * [Pixel Art 101](https://www.youtube.com/playlist?list=PLmac3HPrav-9UWt-ahViIZxpyQxJ2wPSH)
 * [Pixel Art Critiques](https://www.youtube.com/playlist?list=PLmac3HPrav-9bIEd67mbF7ovn0XnD5_0V)
 * [How to choose good Colour Palettes](https://youtu.be/uUdMb8Bb2II)
+* [how Celeste's tilesets work - video](https://www.youtube.com/watch?v=S6NpEP5daVU)
 
 Do:
 * [Start here](https://lospec.com/articles/pixel-art-where-to-start/)
