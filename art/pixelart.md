@@ -11,6 +11,8 @@ Read:
 * [slynyrd's tutorials](https://www.slynyrd.com/pixelblog-catalogue)
 * [LPC styleguide](https://lpc.opengameart.org/static/LPC-Style-Guide/build/styleguide.html)
 * [Thoughts on very low resolution](https://blog.kano.me/my-thoughts-on-very-low-resolution/amp/)
+* [Color for the Color Challenged](https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56)
+* [Lux - Color for pixel artist: it's all relative](https://pixelparmesan.com/color-theory-for-pixel-artists-its-all-relative/)
 
 Watch:
 * [Mortmort's pixel art tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)
